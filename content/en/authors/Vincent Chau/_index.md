@@ -1,16 +1,20 @@
 ---
 # Display name
-title: Weiwei Wu 吴巍炜
+title: Vincent Chau
 
-# Full Name (for SEO)
-first_name: Weiwei
-last_name: Wu
+# Full name (for SEO)
+first_name: Vincent
+last_name: Chau
+
+# Username (this should match the folder name)
+authors:
+  - Vincent Chau
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -63,14 +67,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
-
-Dr. Weiwei Wu is currently a professor in the School of Computer Science and Engineering, Southeast University, P.R. China. He has published over 60 peer-reviewed papers in international conferences/journals and serves as TPCs and reviewers for several top international journals and conferences. His research interest covers the applications of optimization methods in a wide range of topics, including combinatorial optimization and algorithms, game theory, reinforcement learning, multi-agent systems, swarm system, real-time scheduling. 
 
