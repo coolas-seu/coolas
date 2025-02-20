@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Southeast University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Weiwei Wu is currently a professor in the School of Computer Science and Engineering, Southeast University, P.R. China. He has published over 60 peer-reviewed papers in international conferences/journals and serves as TPCs and reviewers for several top international journals and conferences. His research interest covers the applications of optimization methods in a wide range of topics, including combinatorial optimization and algorithms, game theory, reinforcement learning, multi-agent systems, swarm system, real-time scheduling. 
