@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 吴巍炜 Weiwei Wu 
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Weiwei
+last_name: Wu
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Southeast University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Weiwei Wu is currently a professor in the School of Computer Science and Engineering, Southeast University, P.R. China. He has published over 60 peer-reviewed papers in international conferences/journals and serves as TPCs and reviewers for several top international journals and conferences. His research interest covers the applications of optimization methods in a wide range of topics, including combinatorial optimization and algorithms, game theory, reinforcement learning, multi-agent systems, swarm system, real-time scheduling. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+吴巍炜   教授、博导，入选国家级青年人才计划，江苏省杰出青年基金获得者，东南大学计算机科学拔尖基地负责人。2011年分别获得香港城市大学和中国科技大学博士学位，2011-2012年新加坡南洋理工大学博士后，2012年起加入东南大学计算机、人工智能、软件学院。研究方向包括智能无人系统、大模型智能决策、强化学习、智能物联网、大数据、深度学习等。主持国家重点研发项目课题、国家自然科学基金面上/青年项目、省部级和企业合作项目十余项，在相关研究领域国际会议和期刊上发表学术论文90余篇，发表CCF A+IEEE/ACM Trans. 40余篇，担任多个国际著名期刊会议的程序委员会共同主席、委员等。曾先后获得“ACM新星奖”、微软亚洲研究院“微软学者”称号、中国科学院“院长奖”等。

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: COOLAS
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Center Of Optimization, Learning Algorithms and Systems
         Research Group
       image:
         filename: welcome.jpg
