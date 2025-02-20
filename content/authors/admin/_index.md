@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吴巍炜 Weiwei Wu 
+title: Weiwei Wu 吴巍炜
 
 # Full Name (for SEO)
 first_name: Weiwei
@@ -10,7 +10,7 @@ last_name: Wu
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
